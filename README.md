@@ -4,7 +4,7 @@ Real-time vehicle pose estimation and drift angle measurement using monocular vi
 
 ## Overview
 
-This project builds a vision-based pipeline that segments road boundaries, estimates vehicle pose frame-to-frame, and computes a continuous drift angle relative to the road centerline. No IMU, no GPS.
+This project builds a vision-based pipeline that segments road boundaries, estimates vehicle pose frame-to-frame, and computes a continuous drift angle relative to the road centerline.
 
 ## Approach
 
